@@ -1,0 +1,21 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "node": true
+  },
+  "extends": ["airbnb-base", "prettier"],
+  "rules": {
+    "no-console": "off",
+    "no-await-in-loop": "off",
+    "no-restricted-syntax": "off",
+    "no-underscore-dangle": "off",
+    "func-names": "off",
+    "consistent-return": "off"
+  },
+  "overrides": [
+    {
+      "files": "**/*.+(md)",
+      "extends": ["plugin:mdx/recommended"]
+    }
+  ]
+}
