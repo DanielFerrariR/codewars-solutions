@@ -79,12 +79,6 @@ node filename.js param1 param2 param3 param4...
 # Installs all dependendies
 $ yarn
 
-# Start the server for development
-$ yarn dev
-
-# Start the server for production
-$ yarn start
-
 # Checks Eslint errors
 $ yarn lint
 
