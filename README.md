@@ -73,9 +73,33 @@ yarn
 node filename.js param1 param2 param3 param4...
 ```
 
-## Used technologies
+5. **Commands**
 
-- Node
+```bash
+# Installs all dependendies
+$ yarn
+
+# Start the server for development
+$ yarn dev
+
+# Start the server for production
+$ yarn start
+
+# Checks Eslint errors
+$ yarn lint
+
+# Formats all files with prettier
+$ yarn format
+
+# Checks if all files are formatted with prettier
+$ yarn check-format
+
+# Checks typescript errors
+$ yarn check-types
+
+# Commits with karma interface
+$ yarn commit
+```
 
 ## Code Wars Profile
 
