@@ -67,7 +67,7 @@ All solutions from Code Wars
 yarn
 ```
 
-4. **Run a file with (only need the required params)**
+3. **Run each file with (only need the required params)**
 
 ```sh
 node filename.js param1 param2 param3 param4...
