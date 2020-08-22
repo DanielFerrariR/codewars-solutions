@@ -14,5 +14,4 @@ const list = (names) => {
   return final
 }
 
-
 console.log(list(process.argv[2]))
