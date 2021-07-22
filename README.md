@@ -29,6 +29,7 @@ All solutions from Code Wars
 - 17 - Is this a triangle? - <https://www.codewars.com/kata/50654ddff44f800200000004>
 - 18 - Format a string of names like 'Bart, Lisa & Maggie'. - <https://www.codewars.com/kata/53368a47e38700bd8300030d>
 - 19 - Find the next perfect square! - <https://www.codewars.com/kata/56269eb78ad2e4ced1000013>
+- 20 - Consecutive stirngs - <https://www.codewars.com/kata/56a5d994ac971f1ac500003e>
 
 ## Workspace
 
